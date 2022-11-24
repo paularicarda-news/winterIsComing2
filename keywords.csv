@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren',de,Winter,#0099ff,#0099ff,1,1.0
 'Ukraine',de,Krieg,#18e818,#18e818,1,1.0
-'Kosten',de,Energie,#ff0000,#ff0000,2,1.0
 'Putin',de,Krieg,#18e818,#18e818,1,1.0
 'Sparen',de,Krise,#ffcc00,#ffcc00,1,1.0
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,1,1.0
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.9367774518181818
 'Waffen',de,Krieg,#18e818,#18e818,3,0.9322653122727272
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.9185929036363636
+'Kosten',de,Energie,#ff0000,#ff0000,2,0.914163909090909
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.9004407404545455
 'Flucht',de,Krieg,#18e818,#18e818,2,0.8958802409090909
 'Kohle',de,Energie,#ff0000,#ff0000,2,0.8822367822727273
