@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.9367774518181818
 'Schnee',de,Winter,#0099ff,#0099ff,4,0.9346315162045454
 'Waffen',de,Krieg,#18e818,#18e818,3,0.9322653122727272
-'Explosion',de,Krieg,#18e818,#18e818,4,0.9203309316363636
+'Explosion',de,Krieg,#18e818,#18e818,1,0.9203309316363635
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.9185929036363636
 'Kosten',de,Energie,#ff0000,#ff0000,2,0.914163909090909
 'Inflation',de,Krise,#ffcc00,#ffcc00,2,0.9004810304545454
