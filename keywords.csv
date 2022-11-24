@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sparen',de,Krise,#ffcc00,#ffcc00,1,1.0
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,1,1.0
 'Inflation',de,Krise,#ffcc00,#ffcc00,1,1.0
 'Nordstream',de,Energie,#ff0000,#ff0000,1,1.0
 'Ukraine',de,Krieg,#18e818,#18e818,1,1.0
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.9185929036363636
 'Kosten',de,Energie,#ff0000,#ff0000,2,0.914163909090909
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.9004407404545455
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,2,0.9004139654545454
 'Flucht',de,Krieg,#18e818,#18e818,2,0.8958802409090909
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.8958637409090909
 'Kohle',de,Energie,#ff0000,#ff0000,2,0.8822367822727273
