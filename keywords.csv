@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flucht',de,Krieg,#18e818,#18e818,4,0.8846512779545455
 'Russland',de,Krieg,#18e818,#18e818,4,0.8309498182909089
 'Heizen',de,Winter,#0099ff,#0099ff,4,0.8298658471818183
+'Atomenergie',de,Energie,#ff0000,#ff0000,4,0.8235030290738636
 'Kohle',de,Energie,#ff0000,#ff0000,2,0.8185016535681818
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.802572279659091
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.7661005743409092
 'Knappheit',de,Krise,#ffcc00,#ffcc00,4,0.6933435007647726
