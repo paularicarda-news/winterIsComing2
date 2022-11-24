@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.9867785768181818
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.9413235363636364
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.9367774518181818
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.9276803477272728
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.9185929036363636
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.9004407404545455
 'Flucht',de,Krieg,#18e818,#18e818,2,0.8958802409090909
 'Kohle',de,Energie,#ff0000,#ff0000,2,0.8822367822727273
 'Russland',de,Krieg,#18e818,#18e818,4,0.8309498182909089
 'Heizen',de,Winter,#0099ff,#0099ff,4,0.8298658471818183
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.802572279659091
