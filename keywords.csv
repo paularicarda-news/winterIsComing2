@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.9004407404545455
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,2,0.9004139654545454
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.8958637409090909
-'Nordstream',de,Energie,#ff0000,#ff0000,2,0.8913146863636363
 'Flucht',de,Krieg,#18e818,#18e818,4,0.8846512779545455
 'Waffen',de,Krieg,#18e818,#18e818,3,0.8837815717954545
 'Putin',de,Krieg,#18e818,#18e818,4,0.8642329902045454
+'Nordstream',de,Energie,#ff0000,#ff0000,4,0.8398412756818181
 'Heizen',de,Winter,#0099ff,#0099ff,4,0.8298658471818183
 'Atomenergie',de,Energie,#ff0000,#ff0000,4,0.8235030290738636
 'Kohle',de,Energie,#ff0000,#ff0000,2,0.8185016535681818
