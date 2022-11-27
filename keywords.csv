@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomenergie',de,Energie,#ff0000,#ff0000,4,0.8235030290738636
 'Kohle',de,Energie,#ff0000,#ff0000,2,0.8185016535681818
 'Putin',de,Krieg,#18e818,#18e818,4,0.8123397544011363
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.8048402254545455
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.7982569065909091
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.7975839729090908
 'Inflation',de,Krise,#ffcc00,#ffcc00,4,0.7826265879806817
@@ -19,4 +18,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.7661005743409092
 'Explosion',de,Krieg,#18e818,#18e818,2,0.7411784426527271
 'Russland',de,Krieg,#18e818,#18e818,4,0.7204947896381816
+'Kosten',de,Energie,#ff0000,#ff0000,4,0.7028227602727273
 'Knappheit',de,Krise,#ffcc00,#ffcc00,4,0.6933435007647726
