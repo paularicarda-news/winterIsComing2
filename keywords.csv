@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.7703622493863636
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.7661005743409092
 'Heizen',de,Winter,#0099ff,#0099ff,4,0.755804990559091
-'Explosion',de,Krieg,#18e818,#18e818,2,0.7411784426527271
+'Explosion',de,Krieg,#18e818,#18e818,3,0.7213344976184545
 'Russland',de,Krieg,#18e818,#18e818,4,0.7204947896381816
 'Kosten',de,Energie,#ff0000,#ff0000,4,0.7028227602727273
 'Knappheit',de,Krise,#ffcc00,#ffcc00,4,0.6933435007647726
