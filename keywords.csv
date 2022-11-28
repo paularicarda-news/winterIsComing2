@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,4,0.7826265879806817
 'Flucht',de,Krieg,#18e818,#18e818,4,0.7751063444431818
 'Gasspeicher',de,Energie,#ff0000,#ff0000,4,0.7735347293090908
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.7703622493863636
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.7661005743409092
 'Heizen',de,Winter,#0099ff,#0099ff,4,0.755804990559091
 'Explosion',de,Krieg,#18e818,#18e818,3,0.7213344976184545
 'Russland',de,Krieg,#18e818,#18e818,4,0.7204947896381816
 'Kosten',de,Energie,#ff0000,#ff0000,4,0.7028227602727273
 'Knappheit',de,Krise,#ffcc00,#ffcc00,4,0.6933435007647726
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.6643409865238636
