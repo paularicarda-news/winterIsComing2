@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.7661005743409092
 'Heizen',de,Winter,#0099ff,#0099ff,4,0.755804990559091
 'Nordstream',de,Energie,#ff0000,#ff0000,3,0.7327280643295453
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.7283599824272726
 'Putin',de,Krieg,#18e818,#18e818,2,0.7227746985136931
 'Explosion',de,Krieg,#18e818,#18e818,3,0.7213344976184545
 'Russland',de,Krieg,#18e818,#18e818,4,0.7204947896381816
 'Kosten',de,Energie,#ff0000,#ff0000,4,0.7028227602727273
 'Knappheit',de,Krise,#ffcc00,#ffcc00,4,0.6933435007647726
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.660428711426818
 'Teuer',de,Krise,#ffcc00,#ffcc00,4,0.5924036812725568
