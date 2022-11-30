@@ -2,10 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.8738429007954546
 'Waffen',de,Krieg,#18e818,#18e818,3,0.8289034237585795
 'Ukraine',de,Krieg,#18e818,#18e818,4,0.824195810278409
-'Kohle',de,Energie,#ff0000,#ff0000,2,0.8185016535681818
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.7982569065909091
 'Inflation',de,Krise,#ffcc00,#ffcc00,4,0.7826265879806817
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.7783129155714203
+'Kohle',de,Energie,#ff0000,#ff0000,3,0.7779623028056818
 'Flucht',de,Krieg,#18e818,#18e818,4,0.7751063444431818
 'Gasspeicher',de,Energie,#ff0000,#ff0000,4,0.7735347293090908
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.7661005743409092
