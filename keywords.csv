@@ -4,12 +4,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Energie,#ff0000,#ff0000,3,0.7327280643295453
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.7256127896796589
 'Putin',de,Krieg,#18e818,#18e818,2,0.7227746985136931
-'Waffen',de,Krieg,#18e818,#18e818,3,0.7215194703246646
 'Explosion',de,Krieg,#18e818,#18e818,3,0.7213344976184545
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.721329958506534
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.7207770169302841
 'Flucht',de,Krieg,#18e818,#18e818,3,0.7183563373221591
 'Kosten',de,Energie,#ff0000,#ff0000,4,0.7028227602727273
+'Waffen',de,Krieg,#18e818,#18e818,3,0.7000978165941467
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.6938011555084346
 'Heizen',de,Winter,#0099ff,#0099ff,2,0.6928538324297728
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.6751925497113068
