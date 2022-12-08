@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Winter,#0099ff,#0099ff,2,0.6928538324297728
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.6751925497113068
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.6670072194581818
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.660428711426818
 'Putin',de,Krieg,#18e818,#18e818,3,0.6602766546457302
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.6524955681027138
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.6495135280887698
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.6026874310764317
 'Russland',de,Krieg,#18e818,#18e818,3,0.5726985969908588
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.5204396289327371
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.4828934371969386
