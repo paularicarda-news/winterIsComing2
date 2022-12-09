@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.7256127896796589
 'Explosion',de,Krieg,#18e818,#18e818,3,0.7213344976184545
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.721329958506534
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.7207770169302841
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.7169928007485639
 'Kosten',de,Energie,#ff0000,#ff0000,4,0.7028227602727273
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.6999723565487357
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.6993914810011445
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.6938011555084346
 'Heizen',de,Winter,#0099ff,#0099ff,2,0.6928538324297728
