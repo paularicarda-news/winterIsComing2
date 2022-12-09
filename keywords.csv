@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nordstream',de,Energie,#ff0000,#ff0000,3,0.7327280643295453
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.7256127896796589
 'Explosion',de,Krieg,#18e818,#18e818,3,0.7213344976184545
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.721329958506534
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.6938011555084346
 'Heizen',de,Winter,#0099ff,#0099ff,2,0.6928538324297728
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.6670072194581818
+'Nordstream',de,Energie,#ff0000,#ff0000,3,0.6645192746801134
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.6524955681027138
 'Flucht',de,Krieg,#18e818,#18e818,3,0.6499907230909253
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.6495135280887698
