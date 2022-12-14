@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.6670072194581818
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.6590967742412076
 'Putin',de,Krieg,#18e818,#18e818,3,0.6435169987215978
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.6384069378168743
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.6325190231344626
 'Explosion',de,Krieg,#18e818,#18e818,3,0.6303586817793333
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.629428508962525
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.6243339777091562
 'Waffen',de,Krieg,#18e818,#18e818,3,0.6227994918322974
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.6181784162482435
