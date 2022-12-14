@@ -17,6 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flucht',de,Krieg,#18e818,#18e818,3,0.5665531237181957
 'Russland',de,Krieg,#18e818,#18e818,3,0.5646121851695027
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.5204396289327371
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.4801159829563819
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.4686341728803971
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.4335942397992159
+'Nordstream',de,Energie,#ff0000,#ff0000,2,0.4325990355129246
