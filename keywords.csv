@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.5763329805058761
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.5742381072259545
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.571382219720098
-'Flucht',de,Krieg,#18e818,#18e818,3,0.5665531237181957
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.5626742868994453
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.5530556735211742
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.5277398084778723
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.5204396289327371
+'Flucht',de,Krieg,#18e818,#18e818,3,0.5138135524331936
 'Russland',de,Krieg,#18e818,#18e818,3,0.4850091973940773
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.4686341728803971
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.4335942397992159
