@@ -5,13 +5,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.6174739178709645
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.5899786776181463
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.5880546101188386
-'Waffen',de,Krieg,#18e818,#18e818,3,0.5786803305487823
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.571382219720098
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.5638162952297452
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.5626742868994453
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.5530556735211742
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.5476601106875159
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.5277398084778723
+'Waffen',de,Krieg,#18e818,#18e818,3,0.5241513032391922
 'Flucht',de,Krieg,#18e818,#18e818,3,0.5235306863863963
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.5171537365470454
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.5019047491382811
