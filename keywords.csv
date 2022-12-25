@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.6120983310143913
 'Explosion',de,Krieg,#18e818,#18e818,3,0.6090114539520504
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.5899786776181463
-'Armut',de,Krise,#ffcc00,#ffcc00,3,0.5880546101188386
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.571382219720098
+'Armut',de,Krise,#ffcc00,#ffcc00,3,0.5684414372373765
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.5638162952297452
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.5626742868994453
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.5476601106875159
