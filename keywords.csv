@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#18e818,#18e818,3,0.6884090600315123
-'Frieren',de,Winter,#0099ff,#0099ff,3,0.6608107124233481
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.6252809106448652
 'Explosion',de,Krieg,#18e818,#18e818,3,0.6250858014409149
+'Frieren',de,Winter,#0099ff,#0099ff,3,0.6120983310143913
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.5899786776181463
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.5880546101188386
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.571382219720098
