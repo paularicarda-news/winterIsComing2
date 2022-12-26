@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.5171537365470454
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.5068783443111798
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.5019047491382811
-'Frieren',de,Winter,#0099ff,#0099ff,3,0.495271005021534
 'Russland',de,Krieg,#18e818,#18e818,3,0.4689066189581299
+'Frieren',de,Winter,#0099ff,#0099ff,3,0.4577533060864857
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.4383447524140243
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.354339838882595
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.3364919632217499
