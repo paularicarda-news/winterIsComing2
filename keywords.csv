@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#18e818,#18e818,3,0.7310646169358763
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.6273714149572264
 'Explosion',de,Krieg,#18e818,#18e818,3,0.6090114539520504
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.5746032940772787
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.5638162952297452
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.5626742868994453
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.5476601106875159
