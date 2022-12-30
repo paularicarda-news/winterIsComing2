@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.5088640799439015
 'Flucht',de,Krieg,#18e818,#18e818,3,0.5045169979738914
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.5028991421762756
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.5019047491382811
 'Waffen',de,Krieg,#18e818,#18e818,3,0.4914374836624043
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.4767179835735938
 'Russland',de,Krieg,#18e818,#18e818,3,0.4689066189581299
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.4582677497013522
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.4577533060864857
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.4497844999493571
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.4383447524140243
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.354339838882595
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2882688887384874
