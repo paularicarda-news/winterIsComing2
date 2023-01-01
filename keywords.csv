@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.6090114539520504
 'Putin',de,Krieg,#18e818,#18e818,3,0.5981639377723253
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.5746032940772787
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.5510753578431945
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.5309713944789187
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.5246267591572424
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.5163831454666674
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.4914374836624043
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.4767179835735938
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.4763945140643312
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.4733892391667153
 'Russland',de,Krieg,#18e818,#18e818,3,0.4689066189581299
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.4577533060864857
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.4521457316767318
