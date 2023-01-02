@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.4763945140643312
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.4733892391667153
 'Russland',de,Krieg,#18e818,#18e818,3,0.4689066189581299
-'Frieren',de,Winter,#0099ff,#0099ff,3,0.4577533060864857
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.4521457316767318
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.4002732972791933
+'Frieren',de,Winter,#0099ff,#0099ff,3,0.39859008471896734
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.3918454745024081
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.354339838882595
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.331797682245896
