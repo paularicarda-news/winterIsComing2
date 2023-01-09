@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.457355768291708
 'Explosion',de,Krieg,#18e818,#18e818,3,0.4532367966221567
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.448163412508758
-'Russland',de,Krieg,#18e818,#18e818,3,0.4436133214017942
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.4420794974977708
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.4256470482888583
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.390862910024493
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.35168807696341053
+'Russland',de,Krieg,#18e818,#18e818,3,0.38212858819152506
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.3516880769634105
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.3423728341867266
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.3369797099090116
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.2441635914484737
