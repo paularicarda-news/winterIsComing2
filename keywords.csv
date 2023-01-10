@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.4767179835735938
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.4763945140643312
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.457355768291708
-'Explosion',de,Krieg,#18e818,#18e818,3,0.4532367966221567
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.448163412508758
+'Explosion',de,Krieg,#18e818,#18e818,3,0.4311229530379241
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.4256470482888583
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.39894704605492337
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.3989470460549233
 'Russland',de,Krieg,#18e818,#18e818,3,0.382128588191525
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.3599167312480917
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.3516880769634105
