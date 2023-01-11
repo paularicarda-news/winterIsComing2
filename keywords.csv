@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.5463911860162883
 'Waffen',de,Krieg,#18e818,#18e818,3,0.5269302402914456
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.4979293445111414
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.4963496657382015
 'Putin',de,Krieg,#18e818,#18e818,3,0.4961106681719292
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.4914955166701097
-'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.49024620846059613
+'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.4902462084605961
 'Flucht',de,Krieg,#18e818,#18e818,3,0.4838096832778076
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.4767179835735938
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.4763945140643312
