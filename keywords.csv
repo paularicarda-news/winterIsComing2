@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.4329055287648274
 'Explosion',de,Krieg,#18e818,#18e818,3,0.4311229530379241
 'Putin',de,Krieg,#18e818,#18e818,3,0.4256594707087643
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.3989470460549233
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.3849405692273477
 'Russland',de,Krieg,#18e818,#18e818,3,0.382128588191525
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.3599167312480917
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.35773836278304844
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.3423728341867266
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.3277481747862962
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.2924047089469732
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.16996830219447276
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.1699683021944727
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1525989638263337
