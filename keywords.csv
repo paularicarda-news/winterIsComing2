@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.4895995282640536
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.4763945140643312
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.4610714573413809
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.457355768291708
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.4535311290096884
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.45281711713886086
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.4495303342688079
 'Flucht',de,Krieg,#18e818,#18e818,3,0.4480271726043183
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.4329055287648274
