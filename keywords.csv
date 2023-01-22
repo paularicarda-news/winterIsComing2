@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.4908577350935454
+'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.46088919754278396
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.4528171171388608
 'Flucht',de,Krieg,#18e818,#18e818,3,0.4480271726043183
-'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.4400848949701202
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.4370554191284866
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.4329055287648274
 'Putin',de,Krieg,#18e818,#18e818,3,0.4256594707087643
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#18e818,#18e818,3,0.411683006780978
 'Explosion',de,Krieg,#18e818,#18e818,3,0.3988502071917528
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.377612759297791
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.37283924847966105
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.372839248479661
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.3577383627830484
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.2924047089469732
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2737593835036876
