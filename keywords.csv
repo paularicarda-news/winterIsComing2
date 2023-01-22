@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.4908577350935454
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.4528171171388608
-'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.4495303342688079
 'Flucht',de,Krieg,#18e818,#18e818,3,0.4480271726043183
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.4400848949701202
+'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.43705541912848667
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.4329055287648274
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.4327051746819542
 'Putin',de,Krieg,#18e818,#18e818,3,0.4256594707087643
