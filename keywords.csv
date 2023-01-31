@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.4143788700867595
 'Explosion',de,Krieg,#18e818,#18e818,3,0.3988502071917528
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.3963810344692264
-'Armut',de,Krise,#ffcc00,#ffcc00,3,0.377612759297791
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.372839248479661
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.3613018681839679
+'Armut',de,Krise,#ffcc00,#ffcc00,3,0.3532014026758496
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.3363546506383184
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.2924047089469732
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2737593835036876
