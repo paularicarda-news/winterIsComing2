@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.5695983929333999
 'Putin',de,Krieg,#18e818,#18e818,3,0.5208569707712755
 'Russland',de,Krieg,#18e818,#18e818,3,0.4820161990065087
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.45213982000454683
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.4521398200045468
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.4186043015882977
 'Flucht',de,Krieg,#18e818,#18e818,3,0.4167868095402288
 'Waffen',de,Krieg,#18e818,#18e818,3,0.414473179743425
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.4025323089064203
 'Explosion',de,Krieg,#18e818,#18e818,3,0.3988502071917528
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.3963810344692264
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.372839248479661
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.3946966389349846
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.3613018681839679
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.3532014026758496
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.3363546506383184
