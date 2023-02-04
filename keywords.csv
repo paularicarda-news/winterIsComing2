@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.5120206897311375
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.5117331070761996
 'Russland',de,Krieg,#18e818,#18e818,3,0.4820161990065087
-'Waffen',de,Krieg,#18e818,#18e818,3,0.414473179743425
+'Waffen',de,Krieg,#18e818,#18e818,3,0.44822229869100216
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.4143788700867595
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.410820431350053
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.4025323089064203
@@ -19,4 +19,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2367385021768609
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.2257711632745224
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1879510680584781
-'Nordstream',de,Energie,#ff0000,#ff0000,2,0.13432841966467743
+'Nordstream',de,Energie,#ff0000,#ff0000,2,0.1343284196646774
