@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.3988502071917528
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.3946966389349846
 'Flucht',de,Krieg,#18e818,#18e818,3,0.3737333903019061
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.37243554354806435
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.3724355435480643
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.3613018681839679
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.3551794122744721
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.3509855633897515
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.2909112580425705
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.2671645362412908
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.25683225888163946
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2558346441599526
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.22834796648607
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2243607600321499
