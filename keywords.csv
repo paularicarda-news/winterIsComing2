@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.3946966389349846
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.3889031651786024
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.3792981610564338
-'Putin',de,Krieg,#18e818,#18e818,3,0.37451327311901605
+'Putin',de,Krieg,#18e818,#18e818,3,0.374513273119016
 'Flucht',de,Krieg,#18e818,#18e818,3,0.3737333903019061
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.3728369262818037
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.3551794122744721
-'Kohle',de,Energie,#ff0000,#ff0000,3,0.3509855633897515
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.3488056142885819
+'Kohle',de,Energie,#ff0000,#ff0000,3,0.3351218556994706
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.2671645362412908
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.2568322588816394
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2558346441599526
