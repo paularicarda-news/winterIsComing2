@@ -7,15 +7,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#18e818,#18e818,3,0.374513273119016
 'Flucht',de,Krieg,#18e818,#18e818,3,0.3737333903019061
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.3728369262818037
-'Ukraine',de,Krieg,#18e818,#18e818,3,0.37208051176544843
+'Ukraine',de,Krieg,#18e818,#18e818,3,0.3720805117654484
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.3587325012765551
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.3578586668417107
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.3551794122744721
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.3351218556994706
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.3105383562362037
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.2671645362412908
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.2568322588816394
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2558346441599526
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.24149949323121167
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.22834796648607
 'Nordstream',de,Energie,#ff0000,#ff0000,3,0.213939135685002
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.2104938624197077
