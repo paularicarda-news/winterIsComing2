@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.3265770495291352
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.3182449559063631
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.3105383562362037
-'Flucht',de,Krieg,#18e818,#18e818,3,0.30557705172938526
+'Flucht',de,Krieg,#18e818,#18e818,3,0.3055770517293852
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2558346441599526
 'Nordstream',de,Energie,#ff0000,#ff0000,3,0.2512309112824139
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.22834796648607
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.22491586235133487
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.2197464379343325
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.2193789583374389
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1987430235982387
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1785668519641373
