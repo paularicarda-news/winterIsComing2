@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.3265770495291352
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.3211571154414987
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.3206191838904763
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.3143728582553186
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.3133257534450506
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.3105383562362037
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.3099834910850718
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2982052852476813
 'Nordstream',de,Energie,#ff0000,#ff0000,3,0.23667936777187
