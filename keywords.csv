@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.3522371430057592
 'Putin',de,Krieg,#18e818,#18e818,3,0.3443818115951247
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.3400503455213513
-'Kohle',de,Energie,#ff0000,#ff0000,3,0.33981202234455
 'Flucht',de,Krieg,#18e818,#18e818,3,0.3328927721517956
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.3133257534450506
+'Kohle',de,Energie,#ff0000,#ff0000,3,0.3119797471746857
 'Nordstream',de,Energie,#ff0000,#ff0000,3,0.310674417151544
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.3099834910850718
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.3090701710335589
