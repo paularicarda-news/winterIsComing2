@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ukraine',de,Krieg,#18e818,#18e818,3,0.5188408417254676
+'Ukraine',de,Krieg,#18e818,#18e818,3,0.5052488995575566
 'Putin',de,Krieg,#18e818,#18e818,3,0.4204768125831287
 'Waffen',de,Krieg,#18e818,#18e818,3,0.4203242550516517
 'Explosion',de,Krieg,#18e818,#18e818,3,0.4077718775243514
@@ -17,6 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.287032347216183
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2797203819985585
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.2051085032231867
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.17695493042228033
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1769549304222803
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.1718434445211915
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.125777252635803
