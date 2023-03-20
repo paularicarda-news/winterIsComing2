@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.3167260064204213
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.3119797471746857
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.3002061740341775
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.2921776536530493
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2912623901495837
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.2896711069687283
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1965898424391602
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.17092226673362207
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.170922266733622
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1591138189385303
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0993339071725847
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.0911239435531148
