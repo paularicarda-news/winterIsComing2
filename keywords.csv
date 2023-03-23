@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flucht',de,Krieg,#18e818,#18e818,3,0.3328927721517956
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.3264660012989338
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.3258301449737475
-'Armut',de,Krise,#ffcc00,#ffcc00,3,0.3192803795909649
+'Armut',de,Krise,#ffcc00,#ffcc00,3,0.32180087810686564
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.3167260064204213
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.3119797471746857
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.3002061740341775
@@ -19,4 +19,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.170922266733622
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1591138189385303
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.0911239435531148
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.07374085869236346
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0737408586923634
