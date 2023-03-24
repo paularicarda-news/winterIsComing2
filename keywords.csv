@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.3218008781068656
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.3167260064204213
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.3119797471746857
-'Nordstream',de,Energie,#ff0000,#ff0000,3,0.30877584716228484
+'Nordstream',de,Energie,#ff0000,#ff0000,3,0.3087758471622848
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.3002061740341775
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2896711069687283
 'Kosten',de,Energie,#ff0000,#ff0000,2,0.2891012472012559
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1965898424391602
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.170922266733622
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.16950259607328616
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1591138189385303
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.0911239435531148
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0737408586923634
