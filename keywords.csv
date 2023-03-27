@@ -5,18 +5,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.4491855103504237
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.3603524029084139
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.3597677883768209
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.35599227727553995
 'Explosion',de,Krieg,#18e818,#18e818,3,0.3471610609670955
 'Flucht',de,Krieg,#18e818,#18e818,3,0.3328927721517956
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.3258301449737475
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.3218008781068656
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.3167260064204213
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.3119797471746857
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.3002061740341775
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2896711069687283
 'Kosten',de,Energie,#ff0000,#ff0000,2,0.2826051169392493
 'Nordstream',de,Energie,#ff0000,#ff0000,3,0.222650652922629
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.170922266733622
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.15843253427956894
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1584325342795689
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1581194057532022
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.0911239435531148
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0737408586923634
