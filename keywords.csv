@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.3458334240124204
 'Flucht',de,Krieg,#18e818,#18e818,3,0.3360698875374941
 'Waffen',de,Krieg,#18e818,#18e818,3,0.3305646430919375
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.3248985811085154
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.3193997822999266
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.30385095166951076
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2961153940200173
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2896711069687283
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2499620695342753
