@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.3193997822999266
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.3119795690535191
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.28934595857275
-'Kohle',de,Energie,#ff0000,#ff0000,3,0.285165391724917
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2842388739707632
+'Kohle',de,Energie,#ff0000,#ff0000,3,0.2791691897843612
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2785963736808143
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2768690925554477
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2559536677849061
