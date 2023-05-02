@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2463187971741467
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2356101822859522
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1910567098101879
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.15086202778876134
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1462808632180127
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.1448858471311631
 'Nordstream',de,Energie,#ff0000,#ff0000,2,0.1361582520019697
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1233748530865066
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0540765835263368
