@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2993975229459944
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2955471961250603
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2935763688480605
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.28934595857275
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2831631022257979
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.2827215766050193
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2675688809448578
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.254333374435352
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2465584878751487
@@ -19,4 +19,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1429707573716744
 'Nordstream',de,Energie,#ff0000,#ff0000,2,0.1361582520019697
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.114391968916634
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.06150346986492969
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0615034698649296
