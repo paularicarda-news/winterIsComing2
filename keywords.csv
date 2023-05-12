@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2745646811411675
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2725454423869936
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2614046115867197
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.254333374435352
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.252955780088231
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2463187971741467
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2356101822859522
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2327118428756945
