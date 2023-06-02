@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#18e818,#18e818,3,0.3007184912089912
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2933567507251405
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2911021823464736
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.2673184825627305
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2614046115867197
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2463187971741467
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.24581658381468455
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2327118428756945
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2290568771659054
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2265497780361331
