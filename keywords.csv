@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2614046115867197
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2463187971741467
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2458165838146845
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.24510655104556506
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.245106551045565
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.24297853178525858
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2327118428756945
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2265497780361331
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2181867210790389
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1931287454587066
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1372544806352172
