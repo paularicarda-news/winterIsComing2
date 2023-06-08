@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2458165838146845
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2429785317852585
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2314760765705484
-'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2181867210790389
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1943448112672073
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.18365261286664278
+'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.18545967291718304
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.1836526128666427
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.1304652801811771
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1037500133401061
 'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.0757544734285027
