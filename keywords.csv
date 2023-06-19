@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2046756165746672
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2035009378886964
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2029966004131302
-'Nordstream',de,Energie,#ff0000,#ff0000,2,0.1543457202562531
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.14203287129614933
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.1420328712961493
+'Nordstream',de,Energie,#ff0000,#ff0000,2,0.13614501721781513
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1242563734843515
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1037500133401061
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.1003245005058624
