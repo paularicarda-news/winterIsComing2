@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1820463448966152
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1485062983289996
 'Nordstream',de,Energie,#ff0000,#ff0000,3,0.1404788416444168
-'Frieren',de,Winter,#0099ff,#0099ff,3,0.10786863746169878
+'Frieren',de,Winter,#0099ff,#0099ff,3,0.1078686374616987
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.1075587781845263
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.08699547404434177
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0843701489691709
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0626401282874609
