@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2861923041515517
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2746166574030793
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2730689941468896
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.22457213984028063
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2217614984431149
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2175581629889764
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2145452611876574
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2120225356729273
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2092985209193613
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.196616530152882
 'Nordstream',de,Energie,#ff0000,#ff0000,2,0.1618399862068371
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0769781367725504
