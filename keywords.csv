@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.2639163797467158
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2429910490449506
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2245721398402806
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2175581629889764
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2145452611876574
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.21260825126790264
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2120225356729273
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1935533536766476
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1857136992663133
