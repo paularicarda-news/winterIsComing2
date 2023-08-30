@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2676998766106677
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.2656438041483447
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2478632580518443
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.22866088971605955
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2126082512679026
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2100465197367815
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.1935533536766476
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1897182398674427
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1719006584672753
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1573818671083933
