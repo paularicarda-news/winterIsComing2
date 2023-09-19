@@ -7,16 +7,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2798947877358855
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2531806656008216
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2379056418153608
-'Armut',de,Krise,#ffcc00,#ffcc00,3,0.235264483635679
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2338244075258858
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2286608897160595
+'Armut',de,Krise,#ffcc00,#ffcc00,3,0.22766408381759987
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2198600481399006
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1898248923365141
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1897182398674427
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1715426079244245
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.151237396069637
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.1106422025264195
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.07571286605230565
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0757128660523056
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.074664925492291
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0568377392983869
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0439558936834315
