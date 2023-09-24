@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flucht',de,Krieg,#18e818,#18e818,3,0.3041565706192725
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2798947877358855
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2530221057904143
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.2286608897160595
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2173460950333665
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2162140738873262
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2145654986461882
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2040204705430567
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.19941653125865058
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1715426079244245
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1708533180314915
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.151237396069637
