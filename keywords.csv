@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ukraine',de,Krieg,#18e818,#18e818,3,0.33694806503937436
+'Ukraine',de,Krieg,#18e818,#18e818,3,0.3369480650393743
 'Russland',de,Krieg,#18e818,#18e818,3,0.3360108156385964
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2773604085062005
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2664268022631524
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2610860077573208
 'Putin',de,Krieg,#18e818,#18e818,3,0.2538649297381373
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2380035213502273
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.233643930660762
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2241152624719472
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2145654986461882
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2074240384290477
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2040204705430567
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.1994165312586505
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1987940448692706
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.183559243179942
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1812290596573239
