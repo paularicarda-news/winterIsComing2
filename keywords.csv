@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#18e818,#18e818,3,0.2538649297381373
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2380035213502273
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.233643930660762
-'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2241152624719472
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2145654986461882
+'Armut',de,Krise,#ffcc00,#ffcc00,3,0.20909354673751876
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2074240384290477
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2040204705430567
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1987940448692706
