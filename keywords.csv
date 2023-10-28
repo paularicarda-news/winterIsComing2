@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2495841881356331
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2436436595113295
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2354586428798295
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.2153946701286233
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2145654986461882
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.1994471108465087
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1987066388271388
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1903324066312388
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.183559243179942
