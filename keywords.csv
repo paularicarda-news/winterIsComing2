@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2145654986461882
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.205181136447855
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1987066388271388
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.183559243179942
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.1927984285211325
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1680894797996344
 'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.0826540632825847
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0807925334806929
