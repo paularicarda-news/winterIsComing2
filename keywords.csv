@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2546547240262955
 'Putin',de,Krieg,#18e818,#18e818,3,0.2499293091823003
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2492036905233116
-'Flucht',de,Krieg,#18e818,#18e818,3,0.2436436595113295
 'Russland',de,Krieg,#18e818,#18e818,3,0.2427217912285307
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2311832853118526
+'Flucht',de,Krieg,#18e818,#18e818,3,0.22117029967553917
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2184266760542939
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2167335956365529
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2145654986461882
