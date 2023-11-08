@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2492036905233116
 'Russland',de,Krieg,#18e818,#18e818,3,0.2427217912285307
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2311832853118526
-'Flucht',de,Krieg,#18e818,#18e818,3,0.22117029967553917
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.2184266760542939
+'Flucht',de,Krieg,#18e818,#18e818,3,0.2211702996755391
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2167335956365529
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2145654986461882
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1987066388271388
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.19516432419160434
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1927984285211325
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1680894797996344
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0941322982150021
