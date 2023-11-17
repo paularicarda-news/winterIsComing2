@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.304745081674001
-'Explosion',de,Krieg,#18e818,#18e818,3,0.29521807698901753
-'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2817190408792037
+'Explosion',de,Krieg,#18e818,#18e818,3,0.2952180769890175
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2806676017938049
+'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2580791683836868
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2492036905233116
 'Russland',de,Krieg,#18e818,#18e818,3,0.2386074248169783
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.237820793878711
