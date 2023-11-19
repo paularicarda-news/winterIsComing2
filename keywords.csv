@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ukraine',de,Krieg,#18e818,#18e818,3,0.36604564328195255
+'Ukraine',de,Krieg,#18e818,#18e818,3,0.3660456432819525
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2952180769890175
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2806676017938049
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2580791683836868
@@ -17,6 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1653495735944503
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0941322982150021
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0918428734414427
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0799531568113304
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.07295476328963084
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0670348326189248
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0394849867403211
