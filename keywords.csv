@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2145975916891203
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2127889119580011
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2043160550061712
+'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2012035586692994
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2001487181519405
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1993794991795743
-'Armut',de,Krise,#ffcc00,#ffcc00,3,0.18809672035960368
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1545419245810812
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1544208453664348
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.13980343134046
