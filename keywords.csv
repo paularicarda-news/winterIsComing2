@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#18e818,#18e818,3,0.3415045643472079
-'Ukraine',de,Krieg,#18e818,#18e818,3,0.3370267348610371
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.330990428147597
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.3276523005679947
+'Ukraine',de,Krieg,#18e818,#18e818,3,0.29152275963188157
 'Putin',de,Krieg,#18e818,#18e818,3,0.2830193353368679
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2237252360638718
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2168740419448148
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2012035586692994
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2001487181519405
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1993794991795743
-'Waffen',de,Krieg,#18e818,#18e818,3,0.19649128202666133
+'Waffen',de,Krieg,#18e818,#18e818,3,0.1964912820266613
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1545419245810812
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1544208453664348
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.13980343134046
