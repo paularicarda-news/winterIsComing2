@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Putin',de,Krieg,#18e818,#18e818,3,0.3557482988263415
 'Russland',de,Krieg,#18e818,#18e818,3,0.3455267708915542
+'Putin',de,Krieg,#18e818,#18e818,3,0.3391914808205721
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.3212627331000396
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.3165308192729082
 'Flucht',de,Krieg,#18e818,#18e818,3,0.3023673027018767
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1687812677143765
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1506256452281362
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1465120493666637
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.09024729614379202
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.090247296143792
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0824728981041061
 'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.0523338859304318
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0209894934877383
