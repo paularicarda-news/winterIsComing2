@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1941785685663332
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1908176635802833
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1738039512369939
-'Frieren',de,Winter,#0099ff,#0099ff,3,0.1658505583253005
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1575123516481291
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1506256452281362
+'Frieren',de,Winter,#0099ff,#0099ff,3,0.15047007912195995
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0950981393957078
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0824728981041061
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0643519744201773
