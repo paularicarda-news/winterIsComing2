@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2643457490206921
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2355326652366526
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2338077546957229
-'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.23222120516430092
+'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2322212051643009
+'Kohle',de,Energie,#ff0000,#ff0000,3,0.21634897028741323
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2126068944977862
-'Kohle',de,Energie,#ff0000,#ff0000,3,0.2059073340279728
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1964912820266613
 'Explosion',de,Krieg,#18e818,#18e818,3,0.195128735654291
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1941785685663332
