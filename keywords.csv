@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.195128735654291
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1941785685663332
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1845090403696266
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1661958673364192
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.16205843546045268
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.18258126359959267
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1620584354604526
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1428972907680469
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0950664588553079
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0850518301443173
