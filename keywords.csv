@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.195128735654291
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1941785685663332
 'Putin',de,Krieg,#18e818,#18e818,3,0.1924235630746535
-'Armut',de,Krise,#ffcc00,#ffcc00,3,0.18882988765731656
+'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1888298876573165
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1845199049625097
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1620584354604526
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1474480169437071
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1441477819637566
-'Nordstream',de,Energie,#ff0000,#ff0000,2,0.1315938127484237
+'Nordstream',de,Energie,#ff0000,#ff0000,2,0.13688185891308322
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.1155700440916853
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0962014949643739
 'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.06014415630008
