@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1941785685663332
 'Putin',de,Krieg,#18e818,#18e818,3,0.1924235630746535
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1888298876573165
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.1845199049625097
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1620584354604526
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.16179658421813323
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1474480169437071
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1441477819637566
 'Nordstream',de,Energie,#ff0000,#ff0000,2,0.1368818589130832
