@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1860401066975459
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1810859616300848
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1773459935929155
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.155342948711086
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1478682343943246
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.14154128094987767
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1334822506475995
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.1133770441278647
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.1093910695957375
