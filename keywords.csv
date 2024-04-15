@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.4260250015884329
 'Explosion',de,Krieg,#18e818,#18e818,3,0.3422827708874734
 'Russland',de,Krieg,#18e818,#18e818,3,0.291603893418837
-'Putin',de,Krieg,#18e818,#18e818,3,0.2815907632316234
+'Putin',de,Krieg,#18e818,#18e818,3,0.28072560511051625
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2800008293105376
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2027292644919389
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2009807260615848
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1645426335860586
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1334862746440253
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.1183699374660962
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.11406785390234071
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.1140678539023407
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.100490824945113
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0647041744251289
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0532068330455659
