@@ -9,13 +9,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2008917537466714
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.195305083646076
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1898096860504635
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.17208582582087711
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1670049205988122
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1666137554277517
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1645426335860586
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.1431456837571644
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1334862746440253
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1140678539023407
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.10226461184618175
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.1022646118461817
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0949418307488006
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0647041744251289
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0532068330455659
