@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2884512853685024
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2872101662962695
 'Putin',de,Krieg,#18e818,#18e818,3,0.2669974377669048
+'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2098278019797444
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2027292644919389
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2009807260615848
-'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1982416183718918
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1965812171135889
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1921339028568364
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1898096860504635
