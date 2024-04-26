@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1921339028568364
 'Putin',de,Krieg,#18e818,#18e818,3,0.1887825718384239
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1797091359605835
-'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.17540428223380305
+'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.175404282233803
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.160543486145354
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.15992622624849
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.1431456837571644
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1140678539023407
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0949418307488006
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0947710152273896
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0690741523522686
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0669875481375362
 'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.0516892551357747
