@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2228107719737654
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2027292644919389
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2009807260615848
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1999818764021256
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1965812171135889
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1797091359605835
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.175404282233803
 'Putin',de,Krieg,#18e818,#18e818,3,0.1745480951535694
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.160543486145354
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.15992622624849
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.153897758466317
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1140678539023407
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0946256120341902
