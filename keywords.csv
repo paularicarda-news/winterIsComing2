@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.160543486145354
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1308137996963694
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1140678539023407
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1025895872726329
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.09218680418173797
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0899541497745162
-'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.05910883654014261
+'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.0591088365401426
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0579895209169057
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0471167632859631
