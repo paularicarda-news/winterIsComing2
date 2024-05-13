@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.175233373832823
 'Putin',de,Krieg,#18e818,#18e818,3,0.1745480951535694
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.160543486145354
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.11629692723989564
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0921868041817379
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.1162969272398956
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.09698111719084085
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0862519263806198
 'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.0416678050345236
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0375423824705946
