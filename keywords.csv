@@ -6,14 +6,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2589955827587463
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2214675665386405
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2080357633933689
+'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.20706331105028625
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2027292644919389
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2009807260615848
-'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1949754408078234
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1840294190327158
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1797091359605835
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.175233373832823
 'Putin',de,Krieg,#18e818,#18e818,3,0.1745480951535694
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.14141484322355088
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.1414148432235508
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1038971131539112
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0969811171908408
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0862519263806198
