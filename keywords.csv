@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#18e818,#18e818,3,0.2169976195168976
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2158921230631395
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2042960849817894
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.1849794678392232
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.18945759993606698
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1840294190327158
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.17233136238949184
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.1723313623894918
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.150206792707589
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1456477982820054
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.144971376865379
