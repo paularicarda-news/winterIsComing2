@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Russland',de,Krieg,#18e818,#18e818,3,0.4064718889093603
+'Russland',de,Krieg,#18e818,#18e818,3,0.36871965375477445
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.3473632134510753
 'Explosion',de,Krieg,#18e818,#18e818,3,0.3120170330968673
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2480248148860322
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2141484081670373
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2094286614932078
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2003684017558019
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.19319767299599025
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1931976729959902
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1894575999360669
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1606100171219771
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1456477982820054
