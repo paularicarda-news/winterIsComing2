@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.3073345811397592
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2757246538668845
 'Russland',de,Krieg,#18e818,#18e818,3,0.2561178588480886
-'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2298168010378861
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2188010337601635
+'Armut',de,Krise,#ffcc00,#ffcc00,3,0.21848448406402135
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2168373750309898
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2094286614932078
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2078750966403909
