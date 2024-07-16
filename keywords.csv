@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1768554638226824
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1688292168264077
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1340648316173899
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.12393821238565601
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.123938212385656
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.103263327671548
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0823091511436541
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0721483734267039
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.07995203604906195
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.0342243305766216
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0223080916500585
