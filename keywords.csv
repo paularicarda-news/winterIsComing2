@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Putin',de,Krieg,#18e818,#18e818,3,0.44350281133241176
 'Explosion',de,Krieg,#18e818,#18e818,3,0.4051919557925375
-'Putin',de,Krieg,#18e818,#18e818,3,0.3928952844552438
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.3488757973863862
 'Russland',de,Krieg,#18e818,#18e818,3,0.317873026114435
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2805512993141439
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1768554638226824
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1688292168264077
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1340648316173899
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.11552303451681828
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1155230345168182
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.103263327671548
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0823091511436541
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0729530456417026
