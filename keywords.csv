@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2940526635931374
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2648879249590144
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2297670812824603
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.22761314489549944
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2253161435871805
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.214262728376539
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2138234811604806
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1910849406871628
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1849099875674447
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1768554638226824
