@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#18e818,#18e818,3,0.3451821375978472
 'Explosion',de,Krieg,#18e818,#18e818,3,0.313091626863572
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2924681722916989
-'Flucht',de,Krieg,#18e818,#18e818,3,0.2825598107755453
+'Flucht',de,Krieg,#18e818,#18e818,3,0.27696356597739535
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2253161435871805
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2143530513927854
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2142520356692515
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1688292168264077
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1267067592753823
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.125788968518196
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.12563346031882366
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.1256334603188236
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1089929980471984
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.061759109056118
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0423128546736177
