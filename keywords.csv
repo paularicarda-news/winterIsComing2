@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1849099875674447
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1790965548521302
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1734634324310982
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.1688292168264077
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1607823527694979
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.15309849384790108
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1267067592753823
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.125788968518196
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.1208584653619091
