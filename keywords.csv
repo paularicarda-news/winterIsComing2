@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1508278710976094
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1391446933401186
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1351760747707158
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.1267067592753823
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.13083652356589315
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0954377406869732
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0665781367886093
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0292961895437905
