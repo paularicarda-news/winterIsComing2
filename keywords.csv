@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1844590138970379
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1734634324310982
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1508278710976094
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.14464292744414403
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1391446933401186
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1388923077582818
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1236975533275224
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1199439985551084
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0860999495839272
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0665781367886093
