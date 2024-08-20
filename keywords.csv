@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2128468300386338
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1939447762505098
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1844590138970379
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.1734634324310982
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.15239796756643348
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1508278710976094
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1388923077582818
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1236975533275224
