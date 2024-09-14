@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2128468300386338
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2027149027327275
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1988711083899315
+'Kohle',de,Energie,#ff0000,#ff0000,3,0.19741813188050178
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1970797020856606
-'Kohle',de,Energie,#ff0000,#ff0000,3,0.1836457476669005
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1731364919303844
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.17084641609637286
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.1708464160963728
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1508278710976094
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.117666605096749
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1087879712764985
