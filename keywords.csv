@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2141371472408826
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2048888900550497
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1977445879756401
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.1973944109894283
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.19546835706828677
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1893024697836623
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1840385061226848
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1691762782979211
@@ -18,5 +18,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0945237355400717
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0887293608267027
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.086964573413185
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.08675104857479363
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0867510485747936
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0338961333351664
