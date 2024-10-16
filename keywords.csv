@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1691762782979211
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1364635178935011
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1089496622640812
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.09859033988451549
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0945237355400717
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0887293608267027
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.086964573413185
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0867510485747936
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0338961333351664
