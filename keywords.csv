@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2551777689511371
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2491627997241782
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2293972241829075
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.21586709045531868
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.2158670904553186
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1954683570682867
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1840385061226848
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1831968086997194
@@ -19,4 +19,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0844297220608476
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0695315949364965
 'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.0402272428285865
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0135558347511916
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.01272257953851286
