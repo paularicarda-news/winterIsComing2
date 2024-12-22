@@ -5,11 +5,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#18e818,#18e818,3,0.276371759538643
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2544499902873225
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2495869406739182
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.24236155642008347
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2423615564200834
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2079043243464573
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2040443768733236
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.20293422532622551
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1978204562428404
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.1954683570682867
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1858025987236517
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1758081801958225
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1738017513362509
