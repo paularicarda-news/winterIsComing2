@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ukraine',de,Krieg,#18e818,#18e818,3,0.3671036752274234
 'Putin',de,Krieg,#18e818,#18e818,3,0.354080762563978
 'Explosion',de,Krieg,#18e818,#18e818,3,0.3448639980461742
+'Ukraine',de,Krieg,#18e818,#18e818,3,0.32616784803421894
 'Russland',de,Krieg,#18e818,#18e818,3,0.2864677529660347
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2303643208351332
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2263152372050876
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2128437364587719
-'Armut',de,Krise,#ffcc00,#ffcc00,3,0.20834378936964942
+'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2083437893696494
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2079043243464573
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2073584479570709
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2040443768733236
