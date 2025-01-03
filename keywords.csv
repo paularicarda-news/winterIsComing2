@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1921237639974379
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1811844092263612
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1663223972721769
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1180287898908504
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.10062549140722284
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.089144085118454
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0870790980331168
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0716109620344348
