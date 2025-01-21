@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2112146334414817
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2060844984554552
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2029342253262255
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.1961455097515891
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1811844092263612
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1797875187336932
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.17175595828885074
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1135325628478654
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0872984925594108
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0812845901108691
