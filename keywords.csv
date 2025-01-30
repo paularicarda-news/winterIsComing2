@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2163171952434412
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2137369774238923
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.2127084736858589
-'Explosion',de,Krieg,#18e818,#18e818,3,0.21117804322783224
 'Waffen',de,Krieg,#18e818,#18e818,3,0.209257362747494
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2081528912964018
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2039821462785628
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2029342253262255
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1986075180805478
+'Explosion',de,Krieg,#18e818,#18e818,3,0.18446513674365736
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1811844092263612
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1737577222727958
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1229500391350816
