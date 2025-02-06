@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1956473897091098
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.1945781996340663
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1811844092263612
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1790398293933076
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1737577222727958
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.15713545998431144
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1229500391350816
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0855925465942387
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0798695514933526
