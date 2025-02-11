@@ -8,14 +8,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2108101595230398
 'Waffen',de,Krieg,#18e818,#18e818,3,0.209257362747494
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2081528912964018
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.2010443976411929
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1956473897091098
 'Putin',de,Krieg,#18e818,#18e818,3,0.1922130043880438
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1811844092263612
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.17584274799501395
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1709341521136946
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1653920996889563
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1385168359866646
-'Frieren',de,Winter,#0099ff,#0099ff,3,0.13218636599209208
+'Frieren',de,Winter,#0099ff,#0099ff,3,0.132186365992092
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1112699342204875
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0798695514933526
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.054871483274211
