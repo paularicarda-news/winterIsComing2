@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1811844092263612
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1709341521136946
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1653920996889563
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.13851683598666467
-'Frieren',de,Winter,#0099ff,#0099ff,3,0.1229500391350816
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1385168359866646
+'Frieren',de,Winter,#0099ff,#0099ff,3,0.13218636599209208
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1112699342204875
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0798695514933526
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.054871483274211
