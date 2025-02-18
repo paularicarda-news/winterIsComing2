@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1956473897091098
 'Putin',de,Krieg,#18e818,#18e818,3,0.1922130043880438
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1758427479950139
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.16696598497763787
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1653920996889563
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1503540092966404
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.131781464679574
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1298922436565591
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.089499760117766
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0834555833776682
