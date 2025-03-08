@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#18e818,#18e818,3,0.1922130043880438
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1921225206138831
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1897347632854568
-'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.18552236559345267
+'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1855223655934526
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1575742672900338
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1503540092966404
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1282787524650193
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0827936110475768
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0813204732904081
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.07864103184230144
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0511880515352093
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0310740880616603
