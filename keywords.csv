@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2480095414901349
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2394053818136832
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2258928483310391
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.2248908654144871
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2110382900309318
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2102367255961609
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.20520238969322313
 'Putin',de,Krieg,#18e818,#18e818,3,0.1911174114571099
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1753371028146515
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1739258136026826
