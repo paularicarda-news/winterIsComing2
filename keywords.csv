@@ -7,14 +7,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2394053818136832
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2380136191609845
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2258928483310391
-'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.22519181129480426
+'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2251918112948042
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2052023896932231
 'Putin',de,Krieg,#18e818,#18e818,3,0.1911174114571099
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1858074192106356
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1739258136026826
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1631614036940953
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1525269508328923
-'Nordstream',de,Energie,#ff0000,#ff0000,3,0.1505243182021889
+'Nordstream',de,Energie,#ff0000,#ff0000,2,0.12794607547186057
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1151573812195025
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.068016089328901
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.066625380353631
