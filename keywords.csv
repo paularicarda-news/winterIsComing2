@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#18e818,#18e818,3,0.3614414170555649
 'Explosion',de,Krieg,#18e818,#18e818,3,0.3073042744124241
-'Ukraine',de,Krieg,#18e818,#18e818,3,0.2980254844652477
 'Flucht',de,Krieg,#18e818,#18e818,3,0.278993181894031
+'Ukraine',de,Krieg,#18e818,#18e818,3,0.26293629134091506
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2403596949763961
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2394053818136832
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2380136191609845
