@@ -10,13 +10,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2251918112948042
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2052023896932231
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1858074192106356
-'Putin',de,Krieg,#18e818,#18e818,3,0.18564484292036157
+'Putin',de,Krieg,#18e818,#18e818,3,0.1856448429203615
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1739258136026826
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1631614036940953
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1525269508328923
 'Nordstream',de,Energie,#ff0000,#ff0000,2,0.1279460754718605
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1151573812195025
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0738063345165119
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.068016089328901
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.066625380353631
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0652680019639827
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0649318657413509
