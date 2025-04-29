@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1640702913396687
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1550655518439276
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1437424631399809
+'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.10122669619768088
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0884406598053774
-'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.0865277452593037
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0740670952049368
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0608688844665705
 'Nordstream',de,Energie,#ff0000,#ff0000,2,0.0576742449085099
