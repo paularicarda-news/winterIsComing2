@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2347965781946383
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2253297128737211
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2207328122057197
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.20736161334659511
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1999480513962565
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.1899999852205932
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1880617408563281
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1727193434878383
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.15483427859360127
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1548342785936012
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1497494985383651
 'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.09120027539275
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.0888934717680286
