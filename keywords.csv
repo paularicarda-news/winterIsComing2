@@ -5,12 +5,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.3155627429317872
 'Flucht',de,Krieg,#18e818,#18e818,3,0.3079921016368142
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2958316669148998
+'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.27389449881878797
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2649057571595654
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.234082636162181
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2181755151018062
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2057634627626504
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1999480513962565
-'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1880617408563281
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1729257581681973
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1532220152453413
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1482662136030597
@@ -19,4 +19,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.070585345804748
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0557128400867754
 'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.0444443328532725
-'Frieren',de,Winter,#0099ff,#0099ff,2,0.030651135431640726
+'Frieren',de,Winter,#0099ff,#0099ff,2,0.0306511354316407
