@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1722827189583407
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1532220152453413
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1141523623304275
-'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.1018995436765496
+'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.10065633121597625
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0821666512449291
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.0768583912779643
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0747620190131918
