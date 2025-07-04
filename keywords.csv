@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#18e818,#18e818,3,0.2586590575244721
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2462834205154492
+'Russland',de,Krieg,#18e818,#18e818,3,0.23558891302315438
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2250344915755319
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2188966271687213
-'Russland',de,Krieg,#18e818,#18e818,3,0.2177780383160105
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.215905733339935
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2108768898609241
 'Explosion',de,Krieg,#18e818,#18e818,3,0.209559845271854
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2081232297954504
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2001066131984184
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1933178636792498
-'Flucht',de,Krieg,#18e818,#18e818,3,0.19037371514309662
+'Flucht',de,Krieg,#18e818,#18e818,3,0.1903737151430966
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1722827189583407
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1532220152453413
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1141523623304275
