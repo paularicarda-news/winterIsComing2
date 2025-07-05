@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1903737151430966
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1722827189583407
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1532220152453413
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.1141523623304275
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.1247099007081361
 'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.1006563312159762
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0821666512449291
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.0768583912779643
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0747620190131918
-'Frieren',de,Winter,#0099ff,#0099ff,2,0.06569719266691662
+'Frieren',de,Winter,#0099ff,#0099ff,2,0.0656971926669166
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0540834565641599
