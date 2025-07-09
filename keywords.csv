@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1532220152453413
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1467377561908873
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1247099007081361
+'Nordstream',de,Energie,#ff0000,#ff0000,2,0.08933108049889076
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0821666512449291
 'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.0784154218591476
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.0768583912779643
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0730667357066675
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0656971926669166
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0540834565641599
