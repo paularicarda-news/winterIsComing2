@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#18e818,#18e818,3,0.3028715455758183
-'Kohle',de,Energie,#ff0000,#ff0000,3,0.2848885829509272
+'Kohle',de,Energie,#ff0000,#ff0000,3,0.2743826727810154
 'Putin',de,Krieg,#18e818,#18e818,3,0.2690468337831829
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2468953557836986
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2421702932763618
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.2268594236745175
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.21140785758229202
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.211407857582292
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2053251319301112
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1999525040138045
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1942877049967918
