@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Russland',de,Krieg,#18e818,#18e818,3,0.26879575111034687
-'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2468953557836986
+'Russland',de,Krieg,#18e818,#18e818,3,0.2687957511103468
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2421702932763618
 'Putin',de,Krieg,#18e818,#18e818,3,0.2336786887157054
+'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.22845847105250744
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2274073360842835
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.2268594236745175
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.211407857582292
