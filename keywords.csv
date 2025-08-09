@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1903176675122968
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.186697591730715
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.170191329247273
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.1353201167193044
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.12906542330231782
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1192667767616282
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1046453516515257
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0994297085817499
