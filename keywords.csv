@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.296761380562342
-'Russland',de,Krieg,#18e818,#18e818,3,0.24994187613367827
+'Russland',de,Krieg,#18e818,#18e818,3,0.2499418761336782
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2474056538960924
 'Putin',de,Krieg,#18e818,#18e818,3,0.2284796668877571
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.2263391768548388
@@ -17,6 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.0930091253135423
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0881866810977281
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0834434236495249
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0601039113533396
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.06513028374124774
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0543598324789684
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.0334539713013079
