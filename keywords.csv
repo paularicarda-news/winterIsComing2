@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2167399222607507
 'Nordstream',de,Energie,#ff0000,#ff0000,3,0.2144608061933273
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2107741048773586
-'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1925388103266129
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1784893735958162
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1678907930420002
+'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.16365840877762097
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1574094230991894
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1407467372354497
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1143528237681177
