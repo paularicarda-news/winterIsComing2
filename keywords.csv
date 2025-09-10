@@ -8,13 +8,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2183305803713355
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2167399222607507
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2107741048773586
-'Nordstream',de,Energie,#ff0000,#ff0000,3,0.20996996299160092
+'Nordstream',de,Energie,#ff0000,#ff0000,3,0.2099699629916009
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1884869843746256
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1678907930420002
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1636584087776209
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1574094230991894
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1407467372354497
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.1112431342938091
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.10405438369519228
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1024276548999007
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.0930091253135423
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0757460168559897
