@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#18e818,#18e818,3,0.2568921506472469
 'Explosion',de,Krieg,#18e818,#18e818,3,0.241535361081082
+'Kohle',de,Energie,#ff0000,#ff0000,3,0.22031507063752792
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2191638955179168
-'Kohle',de,Energie,#ff0000,#ff0000,3,0.2159311809639366
 'Putin',de,Krieg,#18e818,#18e818,3,0.2124192199015127
 'Nordstream',de,Energie,#ff0000,#ff0000,3,0.2119999091477952
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2119182942559273
