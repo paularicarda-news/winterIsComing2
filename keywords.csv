@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2996470856372856
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2511732228280106
-'Russland',de,Krieg,#18e818,#18e818,3,0.25066379532288713
+'Russland',de,Krieg,#18e818,#18e818,3,0.2506637953228871
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2203150706375279
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2185537534629565
 'Putin',de,Krieg,#18e818,#18e818,3,0.2124192199015127
@@ -9,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2109396115150448
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2087189764974533
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1952845613051372
-'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1758783242791595
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1697126012638863
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1569341328161291
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1477515390857001
