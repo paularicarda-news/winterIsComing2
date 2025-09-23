@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.2547005327916927
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2511732228280106
 'Russland',de,Krieg,#18e818,#18e818,3,0.2506637953228871
+'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.23508232650930241
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2203150706375279
 'Nordstream',de,Energie,#ff0000,#ff0000,3,0.2119999091477952
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2119182942559273
