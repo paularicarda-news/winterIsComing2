@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1998512895344221
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1755096816548211
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1697126012638863
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.1569341328161291
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.1519848615300734
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1477515390857001
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1407467372354497
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1130598616981251
