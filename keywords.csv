@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.204320427532907
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1998512895344221
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1755096816548211
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.17154844413193598
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.1715484441319359
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1697126012638863
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1519848615300734
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1407467372354497
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1130598616981251
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.0897786578356734
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.09035555825123148
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0690558566168028
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0644100762358406
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0640910840981762
