@@ -7,16 +7,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2116151770605153
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2085380573814081
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.205094897750108
-'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.204320427532907
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1998512895344221
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1755096816548211
+'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.17367278340297093
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1715484441319359
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1697126012638863
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1519848615300734
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1407467372354497
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.123779220170679
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.0903555582512314
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.07276802721519147
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0727680272151914
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0644100762358406
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0640093710289043
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0299516009641133
