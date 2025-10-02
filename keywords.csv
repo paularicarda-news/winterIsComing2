@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.205094897750108
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1975899288315315
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1755096816548211
-'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1736727834029709
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1715484441319359
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1697126012638863
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1519848615300734
+'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.15197230089252528
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1336801807410413
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.123779220170679
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.0903555582512314
