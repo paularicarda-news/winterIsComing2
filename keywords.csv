@@ -5,11 +5,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2214879497804706
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.205094897750108
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2040666464044379
-'Nordstream',de,Energie,#ff0000,#ff0000,3,0.2008815838626769
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.200394686956015
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1911237726886199
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1826833593303273
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1768810971338706
+'Nordstream',de,Energie,#ff0000,#ff0000,2,0.17075000628327539
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1697126012638863
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1523236004823805
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1519723008925252
@@ -19,4 +19,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.0908462836044557
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.071454507512213
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0640093710289043
-'Frieren',de,Winter,#0099ff,#0099ff,3,0.04722646736841196
+'Frieren',de,Winter,#0099ff,#0099ff,3,0.0472264673684119
