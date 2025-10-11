@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1911237726886199
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1826833593303273
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1768810971338706
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.17648391334703062
 'Nordstream',de,Energie,#ff0000,#ff0000,2,0.1707500062832753
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.1697126012638863
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1523236004823805
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1519723008925252
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1336801807410413
