@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1764839133470306
 'Nordstream',de,Energie,#ff0000,#ff0000,2,0.172837775340784
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1519723008925252
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.13853849741670168
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.1385384974167016
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1336801807410413
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.123779220170679
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.10035484924560552
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0922836622058748
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.0908462836044557
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0640093710289043
 'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.060737066385381
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.0472264673684119
