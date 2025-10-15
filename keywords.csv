@@ -8,14 +8,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1980324598062711
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1911237726886199
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1826833593303273
-'Flucht',de,Krieg,#18e818,#18e818,3,0.1768810971338706
+'Flucht',de,Krieg,#18e818,#18e818,3,0.18259042483651727
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1764839133470306
 'Nordstream',de,Energie,#ff0000,#ff0000,2,0.172837775340784
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1549457199935214
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1519723008925252
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1385384974167016
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.123779220170679
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.11752838413149194
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.1175283841314919
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0775758435563868
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0758848364437444
 'Knappheit',de,Krise,#ffcc00,#ffcc00,2,0.0611227259730284
