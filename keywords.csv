@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1321259937844953
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1272583073496509
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.123779220170679
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0775758435563868
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.07547221156838332
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0740278805226372
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0618820714797987
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.0434360695487622
