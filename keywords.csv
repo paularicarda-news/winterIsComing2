@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.186284228268751
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1826833593303273
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1795223444827581
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.1764839133470306
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.176014680216278
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1749294730857877
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.17315002952679417
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1457478010854022
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1364116608624679
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1321259937844953
@@ -18,5 +18,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.1217653674678995
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0930021861851151
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0740278805226372
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.04423049134753124
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0442304913475312
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.0418717991164478
