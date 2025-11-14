@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1460978510471184
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1427402330180721
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1321259937844953
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1186700180495271
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.11945958397846168
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0920021401613882
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0806571190337236
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.07585530611227241
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0758553061122724
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0565709619531367
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.0467456953152627
