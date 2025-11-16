@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1749294730857877
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1721858289694187
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1703174132795931
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.15493423839005063
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1549342383900506
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1427402330180721
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1321259937844953
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1194595839784616
@@ -19,4 +19,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0920021401613882
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0758553061122724
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0565709619531367
-'Frieren',de,Winter,#0099ff,#0099ff,3,0.0410849660179733
+'Frieren',de,Winter,#0099ff,#0099ff,3,0.04441872566073185
