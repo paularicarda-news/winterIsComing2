@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2273819804807669
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2224755888131911
-'Russland',de,Krieg,#18e818,#18e818,3,0.21938410217959625
-'Ukraine',de,Krieg,#18e818,#18e818,3,0.2121869675256072
+'Russland',de,Krieg,#18e818,#18e818,3,0.2193841021795962
 'Putin',de,Krieg,#18e818,#18e818,3,0.2101375744210203
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1919018631424988
+'Ukraine',de,Krieg,#18e818,#18e818,3,0.18538561739676612
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1850594038486397
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1830591681580509
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1757345709921625
