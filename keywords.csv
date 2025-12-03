@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.1839980361133343
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1793289978440366
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1743235012236555
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.17246487901492685
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.1466727323047524
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.1724648790149268
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1463270609640842
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.14326285109540315
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1427402330180721
 'Flucht',de,Krieg,#18e818,#18e818,3,0.142230397855796
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1416325257441917
