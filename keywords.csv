@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.1839980361133343
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1742904948899604
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1596295906587438
-'Flucht',de,Krieg,#18e818,#18e818,3,0.1435447000417216
+'Flucht',de,Krieg,#18e818,#18e818,3,0.15425454730819063
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1432628510954031
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1428925322290684
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1427402330180721
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.13847622577459476
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.1384762257745947
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1252472766971657
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0867413426256422
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0807729036272288
