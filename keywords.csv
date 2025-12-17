@@ -17,6 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1252472766971657
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.096912584413614
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0750978787154357
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.06399143026624213
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.0629011964414811
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0625213391206727
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0587286660886271
