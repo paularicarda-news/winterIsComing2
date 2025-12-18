@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2036339240398718
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1894970424037435
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.1839980361133343
-'Kohle',de,Energie,#ff0000,#ff0000,3,0.18228153701209773
+'Kohle',de,Energie,#ff0000,#ff0000,3,0.1822815370120977
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1743872343467492
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1542545473081906
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.1432628510954031
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.14945635115836536
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1427402330180721
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1385359320599322
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1384762257745947
