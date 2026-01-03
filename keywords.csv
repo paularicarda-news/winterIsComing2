@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1894970424037435
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.1839980361133343
 'Explosion',de,Krieg,#18e818,#18e818,3,0.1802827612800867
-'Kohle',de,Energie,#ff0000,#ff0000,3,0.1786881735800544
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1726760870655262
+'Kohle',de,Energie,#ff0000,#ff0000,3,0.16592986163395532
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1626857469756222
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1444700762471794
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1335116407119189
