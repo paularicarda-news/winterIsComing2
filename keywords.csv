@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1272516867963969
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1219051878049592
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1209774527073286
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.11012779996210159
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.10768150405869535
 'Atomenergie',de,Energie,#ff0000,#ff0000,1,0.0918416732801766
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.076492120142433
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0742017598253516
