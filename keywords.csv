@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1504922425373752
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1444915437779977
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1432505549292788
+'Frieren',de,Winter,#0099ff,#0099ff,3,0.14204171769152016
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1396014916194111
-'Frieren',de,Winter,#0099ff,#0099ff,3,0.1345422764285264
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1219051878049592
-'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.10574338501542284
+'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1057433850154228
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0826364610343778
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.073974387162856
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0675005754847442
