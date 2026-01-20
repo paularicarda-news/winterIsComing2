@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1449124598717051
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1444915437779977
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1420417176915201
+'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.14028721771765484
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1396014916194111
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1219051878049592
-'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1057433850154228
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0678574640884275
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0668957237074871
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0660637858255537
