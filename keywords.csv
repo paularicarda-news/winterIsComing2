@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1396014916194111
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1363688675865872
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1219051878049592
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.10578777493665484
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0744869398559321
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0612715272649981
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0604577880148557
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.056867829337241
