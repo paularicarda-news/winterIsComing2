@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.3245723179413979
 'Putin',de,Krieg,#18e818,#18e818,3,0.3079920040915863
-'Ukraine',de,Krieg,#18e818,#18e818,3,0.2859712407875903
 'Russland',de,Krieg,#18e818,#18e818,3,0.2781640580469824
+'Ukraine',de,Krieg,#18e818,#18e818,3,0.25263988921490627
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2387801258018523
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2152048644067006
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2085958325759872
