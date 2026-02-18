@@ -9,14 +9,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1878301176533926
 'Explosion',de,Krieg,#18e818,#18e818,3,0.1734990717211058
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1569340350417959
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.15466590044286052
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.1546659004428605
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1544118279578419
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1523250510020545
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1411568375036314
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1396014916194111
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1361046582404001
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1208420795527193
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0909404259301945
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0865192352012132
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.07954958704066531
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0780830120573312
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0656786314831855
