@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2152048644067006
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2085958325759872
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1984600363516508
+'Explosion',de,Krieg,#18e818,#18e818,3,0.18424734278112173
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1820210500053837
-'Explosion',de,Krieg,#18e818,#18e818,3,0.1734990717211058
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1703406778764994
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1589520014914383
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.15651045554884518
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.1565104555488451
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1523250510020545
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1474376438764356
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1411568375036314
