@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1589520014914383
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1474376438764356
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1470797163074274
+'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.14373802316350048
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1411568375036314
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1361046582404001
-'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1294767883517463
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1077804876198114
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0881014574328765
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0817448474614217
