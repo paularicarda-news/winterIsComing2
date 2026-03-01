@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2246262347456955
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2070197968184988
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1875562026845383
-'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1820210500053837
+'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1733163911409398
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1703406778764994
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1628130239949952
-'Frieren',de,Winter,#0099ff,#0099ff,3,0.16209223411315207
+'Frieren',de,Winter,#0099ff,#0099ff,3,0.162092234113152
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1470797163074274
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1437380231635004
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1251835641817594
