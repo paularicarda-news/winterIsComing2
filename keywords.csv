@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1570025890321095
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1470797163074274
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1440233445544955
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.14212379993138516
 'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1366777996889753
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.1077804876198114
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0915941081847455
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0901018870519254
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.079868653817945
