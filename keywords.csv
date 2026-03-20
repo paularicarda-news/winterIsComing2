@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2074272026668516
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1733163911409398
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1720860285542592
-'Waffen',de,Krieg,#18e818,#18e818,3,0.17024891249547489
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.17131991018437553
+'Waffen',de,Krieg,#18e818,#18e818,3,0.1702489124954748
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1633799598313881
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1617912056794951
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1529460515538108
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1421237999313851
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.1149037109247856
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.092802998000349
