@@ -6,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2556196655310356
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2213705610873797
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2167573231968145
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2167573231968145
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2131653163496642
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2074272026668516
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1778468709294464
@@ -20,3 +21,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0896018327822072
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.08893580733122
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.06826954133877255
+'Straße von Hormus',de,Energie,#ff0000,#ff0000,1,0.6826954133877255
+'Druschba',de,Energie,#ff0000,#ff0000,1,0.5826954133877255
