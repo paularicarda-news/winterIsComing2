@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1633268442575172
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1617912056794951
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1421237999313851
-'Frieren',de,Winter,#0099ff,#0099ff,3,0.10261915928606775
+'Frieren',de,Winter,#0099ff,#0099ff,3,0.1026191592860677
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0930889733002966
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0896018327822072
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.08893580733122
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0511174228672631
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.04419988443717363
