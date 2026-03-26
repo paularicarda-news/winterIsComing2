@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Druschba',de,Energie,#ff0000,#ff0000,3,0.5667627036726316
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.5265280061853733
+'Druschba',de,Energie,#ff0000,#ff0000,3,0.5230669294853733
 'Russland',de,Krieg,#18e818,#18e818,3,0.3271136824839746
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.3073553815302264
 'Putin',de,Krieg,#18e818,#18e818,3,0.2683202027198766
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0930889733002966
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0896018327822072
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.08893580733122
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.04419988443717363
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0441998844371736
