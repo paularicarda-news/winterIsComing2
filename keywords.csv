@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.5265280061853733
 'Druschba',de,Energie,#ff0000,#ff0000,3,0.5230669294853733
+'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.49800283571211273
 'Russland',de,Krieg,#18e818,#18e818,3,0.3271136824839746
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.3073553815302264
 'Putin',de,Krieg,#18e818,#18e818,3,0.2683202027198766
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2556196655310356
-'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.24967857318292885
+'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2496785731829288
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2423137015813174
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2213705610873797
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2167573231968145
