@@ -3,12 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Druschba',de,Energie,#ff0000,#ff0000,3,0.4681614500625672
 'Russland',de,Krieg,#18e818,#18e818,3,0.2921437892022875
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2889979120279651
-'Putin',de,Krieg,#18e818,#18e818,3,0.2683202027198766
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2556196655310356
+'Putin',de,Krieg,#18e818,#18e818,3,0.2512230854937133
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2496785731829288
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2346617851718377
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2213705610873797
-'Explosion',de,Krieg,#18e818,#18e818,3,0.22001762043502887
+'Explosion',de,Krieg,#18e818,#18e818,3,0.2200176204350288
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2108989452010474
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2074272026668516
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1778468709294464
