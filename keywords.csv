@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#18e818,#18e818,3,0.2548735090332927
 'Russland',de,Krieg,#18e818,#18e818,3,0.249024843828216
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2449661684286529
-'Rohöl',de,Energie,#ff0000,#ff0000,3,0.243975252396062
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2391081122159358
 'Druschba',de,Energie,#ff0000,#ff0000,3,0.2265427638206716
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.223542244564062
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.22143293862756178
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2213705610873797
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2200176204350288
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2176473236304602
