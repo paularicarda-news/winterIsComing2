@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2601969231941565
 'Russland',de,Krieg,#18e818,#18e818,3,0.249024843828216
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2449661684286529
-'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2277437853835454
 'Druschba',de,Energie,#ff0000,#ff0000,3,0.2265427638206716
 'Putin',de,Krieg,#18e818,#18e818,3,0.2261583072237533
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2257835369242727
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2214329386275617
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2200176204350288
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2176473236304602
+'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.21713407757601358
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2075065234208903
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2061222252900294
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1742953266457526
