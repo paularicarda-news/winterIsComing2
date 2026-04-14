@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2743714777324766
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2617459262667571
 'Russland',de,Krieg,#18e818,#18e818,3,0.249024843828216
-'Druschba',de,Energie,#ff0000,#ff0000,3,0.2265427638206716
 'Putin',de,Krieg,#18e818,#18e818,3,0.2261583072237533
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2257835369242727
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.223542244564062
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2176473236304602
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2171340775760135
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2142299914339737
+'Druschba',de,Energie,#ff0000,#ff0000,3,0.2117308682798289
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2061222252900294
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1949717235441203
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1742953266457526
