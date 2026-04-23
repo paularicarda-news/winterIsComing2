@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Explosion',de,Krieg,#18e818,#18e818,3,0.27597569296162505
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2655041233453324
-'Explosion',de,Krieg,#18e818,#18e818,3,0.2653689264789172
 'Russland',de,Krieg,#18e818,#18e818,3,0.2457635675664429
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2372754399715249
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.223542244564062
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2150537495674499
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2142299914339737
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2123605409027243
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.20581046774931894
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2058104677493189
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.197723637378882
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1949717235441203
 'Flucht',de,Krieg,#18e818,#18e818,3,0.1945143246313457
