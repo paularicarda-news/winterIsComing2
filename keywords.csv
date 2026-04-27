@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2142299914339737
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2123605409027243
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2066684673002801
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.204440337586921
 'Druschba',de,Energie,#ff0000,#ff0000,3,0.1969909324414407
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1949717235441203
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.190808838918378
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.17857575694888286
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1763921576488897
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1619866958007078
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1292196151303147
