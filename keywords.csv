@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2784170533696033
 'Russland',de,Krieg,#18e818,#18e818,3,0.2457635675664429
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.24388556898386413
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2422614955275203
-'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2415923014610925
-'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.23408914899104757
+'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2340891489910475
 'Putin',de,Krieg,#18e818,#18e818,3,0.2257492274679647
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.223542244564062
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2171340775760135
