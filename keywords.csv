@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Druschba',de,Energie,#ff0000,#ff0000,3,0.2537785897416233
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2441474321099773
 'Russland',de,Krieg,#18e818,#18e818,3,0.2417092082670028
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2309772152218611
@@ -10,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2150232594050596
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2147076190945505
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.2142299914339737
-'Druschba',de,Energie,#ff0000,#ff0000,3,0.2109120349901451
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2066684673002801
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2058829733717922
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2016979419205567
