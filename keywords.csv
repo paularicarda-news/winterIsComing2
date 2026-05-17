@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Putin',de,Krieg,#18e818,#18e818,3,0.3090446111441713
 'Explosion',de,Krieg,#18e818,#18e818,3,0.280659605659449
-'Putin',de,Krieg,#18e818,#18e818,3,0.2726950129210365
 'Russland',de,Krieg,#18e818,#18e818,3,0.2667271528178471
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2591208570668291
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2250354046959599
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0907868225491125
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0856226800254855
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0547615542731794
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.04613333090885231
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0461333309088523
