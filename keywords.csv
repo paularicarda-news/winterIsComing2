@@ -5,12 +5,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2591208570668291
 'Druschba',de,Energie,#ff0000,#ff0000,3,0.2391088190996799
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2250354046959599
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.223542244564062
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2200850503017973
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2150232594050596
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2149832815749455
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2066684673002801
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.2052161062746
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.1996129328794527
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1954596815186914
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.1951983511895527
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1915958522643322
