@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.190808838918378
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1839574841265134
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1745932419349789
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.1663801956740501
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.1501091576133328
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.1463767513229426
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1453956540178723
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0907868225491125
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0871399373765013
