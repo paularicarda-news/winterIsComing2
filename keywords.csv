@@ -14,11 +14,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1915958522643322
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.190808838918378
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1745932419349789
-'Atomenergie',de,Energie,#ff0000,#ff0000,2,0.1563648365075363
 'Druschba',de,Energie,#ff0000,#ff0000,3,0.1527672116752721
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1463767513229426
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1453956540178723
-'Rohöl',de,Energie,#ff0000,#ff0000,3,0.12602392967108741
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.14241114603140584
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.1260239296710874
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0907868225491125
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0871399373765013
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0836841959011296
