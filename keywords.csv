@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2150232594050596
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2149832815749455
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2125631301215351
-'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2062542467887857
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1954596815186914
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.1951983511895527
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1915958522643322
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.190808838918378
+'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1848259493159224
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1631041082309389
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1453956540178723
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1424111460314058
