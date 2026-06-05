@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.3517124037983589
 'Russland',de,Krieg,#18e818,#18e818,3,0.3366343579629016
-'Explosion',de,Krieg,#18e818,#18e818,3,0.322637743358565
 'Putin',de,Krieg,#18e818,#18e818,3,0.3144794162388214
+'Explosion',de,Krieg,#18e818,#18e818,3,0.2978019968547802
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2260868876597835
-'Waffen',de,Krieg,#18e818,#18e818,3,0.22020663560330483
+'Waffen',de,Krieg,#18e818,#18e818,3,0.2202066356033048
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2150232594050596
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2149832815749455
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2045759099705028
