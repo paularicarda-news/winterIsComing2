@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1352285278728687
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.1260239296710874
 'Druschba',de,Energie,#ff0000,#ff0000,2,0.1184470030490204
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.09316010852028109
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0907868225491125
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0871399373765013
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.063364621788566
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0454497567865636
