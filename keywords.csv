@@ -5,15 +5,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2410557381025327
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2214685879606253
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2202066356033048
-'Flucht',de,Krieg,#18e818,#18e818,3,0.2153227726926341
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.2150232594050596
+'Flucht',de,Krieg,#18e818,#18e818,3,0.20617286997055717
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2045759099705028
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1996301762428642
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1954596815186914
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.1951983511895527
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.190808838918378
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1848259493159224
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.15333805958250496
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1533380595825049
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1453956540178723
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1424111460314058
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1352285278728687
