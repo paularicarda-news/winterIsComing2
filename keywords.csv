@@ -13,12 +13,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1877249604943006
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.1825051075772804
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.179463113045735
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1792149287324581
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1746065872344517
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.16182264942258937
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1398421356451291
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1352285278728687
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1309003441266949
-'Druschba',de,Energie,#ff0000,#ff0000,1,0.12235296146872082
+'Druschba',de,Energie,#ff0000,#ff0000,1,0.1223529614687208
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0999075039817948
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0907868225491125
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0535589556318062
