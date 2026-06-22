@@ -5,14 +5,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2501523766791305
 'Russland',de,Krieg,#18e818,#18e818,3,0.2215050580966611
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2118826285972616
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.20088505778379187
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.2008850577837918
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2005885673627791
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1996301762428642
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1966970748082636
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1954596815186914
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.190808838918378
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1907999149830501
-'Rohöl',de,Energie,#ff0000,#ff0000,3,0.179463113045735
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.1724160024681851
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1618226494225893
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1484158841492839
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1398421356451291
