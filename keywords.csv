@@ -5,16 +5,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2501523766791305
 'Russland',de,Krieg,#18e818,#18e818,3,0.2215050580966611
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2118826285972616
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.20088505778379187
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2005885673627791
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1996301762428642
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1966970748082636
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1954596815186914
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.190808838918378
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1907999149830501
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.1877249604943006
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.179463113045735
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1618226494225893
-'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.14841588414928392
+'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1484158841492839
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1398421356451291
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1348152250712487
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1309003441266949
