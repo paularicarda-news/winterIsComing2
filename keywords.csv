@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1996301762428642
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1966970748082636
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1954596815186914
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.19241779300704823
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.190808838918378
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1907999149830501
-'Rohöl',de,Energie,#ff0000,#ff0000,3,0.1724160024681851
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1618226494225893
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1484158841492839
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1398421356451291
