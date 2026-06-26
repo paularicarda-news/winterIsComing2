@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2518441895161228
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2118826285972616
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2054566170927535
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.2008850577837918
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2005885673627791
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.19843507684349576
 'Waffen',de,Krieg,#18e818,#18e818,3,0.1966970748082636
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1954596815186914
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.190808838918378
