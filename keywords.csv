@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#18e818,#18e818,3,0.3083629956080412
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2988205280452532
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2630649506318063
-'Flucht',de,Krieg,#18e818,#18e818,3,0.2599440669977952
+'Flucht',de,Krieg,#18e818,#18e818,3,0.23046571649358047
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2118826285972616
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2054566170927535
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2005885673627791
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1398421356451291
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1348152250712487
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0999075039817948
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.09579900780310925
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0957990078031092
 'Druschba',de,Energie,#ff0000,#ff0000,1,0.0917303476611507
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0508395968091077
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0465752172870352
