@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ukraine',de,Krieg,#18e818,#18e818,3,0.31466350358087725
+'Ukraine',de,Krieg,#18e818,#18e818,3,0.3146635035808772
 'Putin',de,Krieg,#18e818,#18e818,3,0.3033438646094838
 'Russland',de,Krieg,#18e818,#18e818,3,0.2825252382813552
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2630649506318063
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2304657164935804
+'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.21624804773559259
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2118826285972616
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2054566170927535
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2005885673627791
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1984350768434957
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1954596815186914
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.190808838918378
-'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.1907999149830501
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1746396848064345
 'Waffen',de,Krieg,#18e818,#18e818,3,0.166151872223443
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1561384056455645
