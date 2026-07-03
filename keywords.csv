@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1401098458947874
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1398421356451291
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.133184914946925
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1000578352690064
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0999075039817948
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.09458682452410998
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0733074007107185
 'Druschba',de,Energie,#ff0000,#ff0000,1,0.0699055391851813
-'Frieren',de,Winter,#0099ff,#0099ff,2,0.04157317149039317
+'Frieren',de,Winter,#0099ff,#0099ff,2,0.0415731714903931
