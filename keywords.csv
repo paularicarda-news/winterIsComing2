@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.3099583140416606
 'Putin',de,Krieg,#18e818,#18e818,3,0.3033438646094838
 'Russland',de,Krieg,#18e818,#18e818,3,0.2825252382813552
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.23735774065787274
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2162480477355925
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2118826285972616
-'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2054566170927535
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2054080835649979
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2005885673627791
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1984350768434957
