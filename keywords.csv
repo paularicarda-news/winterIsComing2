@@ -17,9 +17,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1398421356451291
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1391107213236234
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1318108092978576
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.12271280270488624
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.1227128027048862
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.1038192183845255
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0945868245241099
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0733074007107185
-'Druschba',de,Energie,#ff0000,#ff0000,1,0.0699055391851813
+'Druschba',de,Energie,#ff0000,#ff0000,1,0.061069873307404106
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0378879457668341
