@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2176517968405284
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2162480477355925
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2118826285972616
-'Rohöl',de,Energie,#ff0000,#ff0000,3,0.20529829547242512
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2052982954724251
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2005885673627791
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1984350768434957
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1850076542908877
@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1318108092978576
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1278523686806354
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1238115822991532
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.1048705465132016
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.1038192183845255
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0945868245241099
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.09079012953622136
 'Druschba',de,Energie,#ff0000,#ff0000,1,0.0534095423112934
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0378879457668341
