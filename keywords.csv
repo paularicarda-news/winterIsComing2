@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ukraine',de,Krieg,#18e818,#18e818,3,0.3537167281720167
+'Ukraine',de,Krieg,#18e818,#18e818,3,0.34302286394621423
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.3320786955717751
 'Russland',de,Krieg,#18e818,#18e818,3,0.3178826002664246
 'Putin',de,Krieg,#18e818,#18e818,3,0.3033438646094838
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1768005888912553
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1746396848064345
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1401098458947874
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.13745597393472336
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1374559739347233
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1318108092978576
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1278523686806354
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1238115822991532
