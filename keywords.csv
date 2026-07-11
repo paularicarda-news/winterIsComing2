@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1850076542908877
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.1839973308289806
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1746396848064345
+'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1418809080169286
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1401098458947874
-'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1374559739347233
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1318108092978576
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1238115822991532
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.11332718337854
