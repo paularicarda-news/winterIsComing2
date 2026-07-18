@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#18e818,#18e818,3,0.3449673468684669
+'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.3427876626238621
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.3080502605046261
-'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.3065169651189822
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2454972481238997
-'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.23444831015084797
+'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2344483101508479
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2176517968405284
 'Russland',de,Krieg,#18e818,#18e818,3,0.2136360422470122
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2118826285972616
