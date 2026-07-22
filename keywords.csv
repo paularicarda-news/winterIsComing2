@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#18e818,#18e818,3,0.2136360422470122
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2118826285972616
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2079281417676148
-'Rohöl',de,Energie,#ff0000,#ff0000,3,0.20572484177393846
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2057248417739384
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.2008338062238794
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1918070184987895
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1850076542908877
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0881360901531773
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0544613344465959
 'Druschba',de,Energie,#ff0000,#ff0000,1,0.0534095423112934
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.051995419000592
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0458462711505032
