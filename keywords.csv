@@ -10,16 +10,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2118826285972616
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2079281417676148
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1918070184987895
-'Rohöl',de,Energie,#ff0000,#ff0000,3,0.18936994050784764
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.1893699405078476
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1850076542908877
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.176124634812742
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1426286150847598
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1422256971923874
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1374682572270075
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1318108092978576
+'Druschba',de,Energie,#ff0000,#ff0000,1,0.10504061365690708
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0993022808454934
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0977761101723012
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0910206258856705
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0544613344465959
-'Druschba',de,Energie,#ff0000,#ff0000,1,0.0534095423112934
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0458462711505032
