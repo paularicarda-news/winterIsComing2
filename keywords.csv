@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2176517968405284
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2158686062386043
 'Russland',de,Krieg,#18e818,#18e818,3,0.2136360422470122
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.21338287514595616
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2123296365803996
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2079281417676148
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1918070184987895
-'Rohöl',de,Energie,#ff0000,#ff0000,3,0.1893699405078476
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.1850076542908877
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.176124634812742
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1426286150847598
@@ -20,6 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Druschba',de,Energie,#ff0000,#ff0000,1,0.105040613656907
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0977761101723012
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0910206258856705
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.08939569871866938
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0893956987186693
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0544613344465959
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0458462711505032
