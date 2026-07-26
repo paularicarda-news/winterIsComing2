@@ -16,10 +16,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1426286150847598
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1374682572270075
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1318108092978576
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.13038792715898384
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1303879271589838
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.10504724973009266
 'Druschba',de,Energie,#ff0000,#ff0000,1,0.105040613656907
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0977761101723012
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0910206258856705
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0893956987186693
 'Frieren',de,Winter,#0099ff,#0099ff,3,0.0623929892796065
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0458462711505032
