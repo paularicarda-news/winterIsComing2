@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1374682572270075
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1318108092978576
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1157803830851362
-'Druschba',de,Energie,#ff0000,#ff0000,1,0.105040613656907
+'Druschba',de,Energie,#ff0000,#ff0000,1,0.11431163968529404
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0979311839657061
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0977761101723012
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0893956987186693
