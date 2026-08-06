@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2108413396067147
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2079281417676148
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1816264093603347
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.17057163697252567
-'Kosten',de,Energie,#ff0000,#ff0000,3,0.1692060460006489
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.1705716369725256
+'Kosten',de,Energie,#ff0000,#ff0000,3,0.16748550910055154
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1616016463349069
 'Gasspeicher',de,Energie,#ff0000,#ff0000,1,0.1318108092978576
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1218026386429563
