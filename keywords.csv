@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.36116870685298
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2841617774274795
-'Putin',de,Krieg,#18e818,#18e818,3,0.26288515663863127
+'Putin',de,Krieg,#18e818,#18e818,3,0.2628851566386312
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2474945309544316
 'Russland',de,Krieg,#18e818,#18e818,3,0.2136360422470122
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2133828751459561
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2123296365803996
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2108413396067147
-'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2079281417676148
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2025348956577818
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2009438112965948
+'Armut',de,Krise,#ffcc00,#ffcc00,3,0.19987498368429074
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1779369479562844
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1705716369725256
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1674855091005515
