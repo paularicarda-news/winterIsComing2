@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2108413396067147
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2025348956577818
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2009438112965948
-'Armut',de,Krise,#ffcc00,#ffcc00,3,0.19987498368429074
+'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1998749836842907
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1779369479562844
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1705716369725256
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1674855091005515
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1218026386429563
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1157803830851362
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1030770246652226
-'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0977761101723012
+'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.09263841819191056
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0893956987186693
 'Druschba',de,Energie,#ff0000,#ff0000,1,0.0658859305053464
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0558076593020124
