@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2108413396067147
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.2079281417676148
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2025348956577818
-'Kohle',de,Energie,#ff0000,#ff0000,3,0.20094381129659486
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.1816264093603347
+'Kohle',de,Energie,#ff0000,#ff0000,3,0.2009438112965948
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.17793694795628448
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1705716369725256
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1674855091005515
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1616016463349069
