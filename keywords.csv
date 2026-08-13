@@ -16,10 +16,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1674855091005515
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1593895479031789
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1157803830851362
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.10848623284651286
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.1084862328465128
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0926384181919105
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0893956987186693
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.083789786904876
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0761736588691446
 'Druschba',de,Energie,#ff0000,#ff0000,1,0.0658859305053464
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0490871704067105
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0314785485578027
