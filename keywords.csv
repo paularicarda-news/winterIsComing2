@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.36116870685298
-'Flucht',de,Krieg,#18e818,#18e818,3,0.291957401267903
 'Russland',de,Krieg,#18e818,#18e818,3,0.2684088277281422
+'Flucht',de,Krieg,#18e818,#18e818,3,0.2531295860777175
 'Putin',de,Krieg,#18e818,#18e818,3,0.2261622407883898
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2153395963112668
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2133828751459561
@@ -20,6 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0926384181919105
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0893956987186693
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0761736588691446
-'Druschba',de,Energie,#ff0000,#ff0000,1,0.05795323592954444
+'Druschba',de,Energie,#ff0000,#ff0000,1,0.0579532359295444
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0490871704067105
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0314785485578027
