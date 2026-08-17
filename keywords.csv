@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2159965504838893
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2025348956577818
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1884844947680107
-'Kälte',de,Winter,#0099ff,#0099ff,3,0.18113454080750632
+'Kälte',de,Winter,#0099ff,#0099ff,3,0.1811345408075063
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1727499321432915
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1674855091005515
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1593895479031789
@@ -21,5 +21,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0893956987186693
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0633650532829569
 'Druschba',de,Energie,#ff0000,#ff0000,1,0.0579532359295444
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.047907006274132295
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0450310233688483
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0314785485578027
