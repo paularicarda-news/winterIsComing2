@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2178647374592484
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2159965504838893
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2137068309914749
-'Waffen',de,Krieg,#18e818,#18e818,3,0.19076098994547816
+'Waffen',de,Krieg,#18e818,#18e818,3,0.1907609899454781
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1890592239399058
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1811345408075063
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1727499321432915
@@ -21,5 +21,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0893956987186693
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0583626502905133
 'Druschba',de,Energie,#ff0000,#ff0000,1,0.0503103555401127
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0479070062741322
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0450310233688483
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.04282116533301236
