@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Russland',de,Krieg,#18e818,#18e818,3,0.3117996747151338
+'Russland',de,Krieg,#18e818,#18e818,3,0.3045900985078637
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.290105124696995
 'Putin',de,Krieg,#18e818,#18e818,3,0.2786724200708175
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2654964696245563
@@ -22,4 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0897472377676159
 'Druschba',de,Energie,#ff0000,#ff0000,1,0.0749881312085716
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0645547582249019
-'Nordstream',de,Energie,#ff0000,#ff0000,1,0.04644392523096941
+'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0464439252309694
