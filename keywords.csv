@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2336121620765169
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.229130093948782
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2178647374592484
-'Rohöl',de,Energie,#ff0000,#ff0000,3,0.207466364859004
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.1957069254336627
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1907374615045621
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1890592239399058
 'Explosion',de,Krieg,#18e818,#18e818,3,0.1888757325320734
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.1805499951301534
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1608818014127069
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1593895479031789
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1495020043918959
