@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Winter,#0099ff,#0099ff,3,0.1907374615045621
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1890592239399058
 'Explosion',de,Krieg,#18e818,#18e818,3,0.1888757325320734
-'Rohöl',de,Energie,#ff0000,#ff0000,3,0.1805499951301534
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1608818014127069
 'Gasspeicher',de,Energie,#ff0000,#ff0000,2,0.1593895479031789
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.15737108086063037
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1495020043918959
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1349031580751483
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1218781798199598
