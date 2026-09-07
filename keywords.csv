@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rohöl',de,Energie,#ff0000,#ff0000,3,0.1573710808606303
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1495020043918959
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1349031580751483
-'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1218781798199598
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1157803830851362
 'Druschba',de,Energie,#ff0000,#ff0000,1,0.1146400015272858
+'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.10857907784696583
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1084862328465128
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1007876871024735
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0926384181919105
