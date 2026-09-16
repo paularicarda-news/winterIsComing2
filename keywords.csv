@@ -13,12 +13,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1890592239399058
 'Explosion',de,Krieg,#18e818,#18e818,3,0.1888757325320734
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1547676455206806
-'Schnee',de,Winter,#0099ff,#0099ff,3,0.15063087373311151
+'Schnee',de,Winter,#0099ff,#0099ff,3,0.1506308737331115
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1436357216738269
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1389707471740899
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1349031580751483
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1084862328465128
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1018187207153754
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.0936386089210798
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0926384181919105
 'Druschba',de,Energie,#ff0000,#ff0000,1,0.0732738279629443
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0590842234300594
