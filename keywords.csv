@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Explosion',de,Krieg,#18e818,#18e818,3,0.1888757325320734
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1547676455206806
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1511725008549629
-'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1389707471740899
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1349031580751483
+'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1330399608122621
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1315877829682074
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.1084862328465128
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.104147517080495
