@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#18e818,#18e818,3,0.425913203960423
 'Russland',de,Krieg,#18e818,#18e818,3,0.365857758473965
-'Rohöl',de,Energie,#ff0000,#ff0000,3,0.24883676562549292
 'Waffen',de,Krieg,#18e818,#18e818,3,0.2485304418829681
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2394486099894576
+'Rohöl',de,Energie,#ff0000,#ff0000,3,0.2391939385089417
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2346693693057276
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.229130093948782
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2178647374592484
