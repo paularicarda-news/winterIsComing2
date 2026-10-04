@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#18e818,#18e818,3,0.3091121397862768
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2460509105810194
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2346003569643553
-'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2154948115231313
+'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2290461057037525
 'Kohle',de,Energie,#ff0000,#ff0000,3,0.2102284770127749
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2093335587762123
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2071026833044911
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1606345352729669
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1523794000495288
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1460557086925785
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.13760855732946004
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.13760855732946
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.125900715984052
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1160848216904227
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0980551790638752
