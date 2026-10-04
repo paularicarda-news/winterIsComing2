@@ -15,11 +15,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1606345352729669
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1523794000495288
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1460557086925785
-'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1317386363539866
+'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.13760855732946004
 'Heizen',de,Winter,#0099ff,#0099ff,3,0.125900715984052
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1160848216904227
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.0980551790638752
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.0932778004631239
 'Nordstream',de,Energie,#ff0000,#ff0000,1,0.0721211745817113
 'Frieren',de,Winter,#0099ff,#0099ff,2,0.0688086135519141
-'Druschba',de,Energie,#ff0000,#ff0000,1,0.05800285707893079
+'Druschba',de,Energie,#ff0000,#ff0000,1,0.0580028570789307
