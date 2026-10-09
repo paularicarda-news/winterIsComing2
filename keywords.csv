@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#18e818,#18e818,3,0.3865863718592213
 'Straße von Hormus',de,Energie,#ff0000,#ff0000,3,0.2860091160814224
 'Flucht',de,Krieg,#18e818,#18e818,3,0.2498280188742474
+'Kohle',de,Energie,#ff0000,#ff0000,3,0.21546607727904046
 'Explosion',de,Krieg,#18e818,#18e818,3,0.2109550231068078
-'Kohle',de,Energie,#ff0000,#ff0000,3,0.2102284770127749
 'Ukraine',de,Krieg,#18e818,#18e818,3,0.2093335587762123
 'Gasspeicher',de,Energie,#ff0000,#ff0000,3,0.2071026833044911
 'Inflation',de,Krise,#ffcc00,#ffcc00,3,0.2042008593936441
