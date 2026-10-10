@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Krise,#ffcc00,#ffcc00,3,0.1890592239399058
 'Kosten',de,Energie,#ff0000,#ff0000,3,0.1606345352729669
 'Schnee',de,Winter,#0099ff,#0099ff,3,0.1523794000495288
+'Heizen',de,Winter,#0099ff,#0099ff,3,0.15130608897105957
 'Erneuerbare Energien',de,Energie,#ff0000,#ff0000,3,0.1460557086925785
 'Knappheit',de,Krise,#ffcc00,#ffcc00,3,0.1401011319118592
-'Heizen',de,Winter,#0099ff,#0099ff,3,0.125900715984052
 'Atomenergie',de,Energie,#ff0000,#ff0000,3,0.1160848216904227
 'Sparen',de,Krise,#ffcc00,#ffcc00,3,0.1065164453861121
 'Teuer',de,Krise,#ffcc00,#ffcc00,3,0.1024528835754735
